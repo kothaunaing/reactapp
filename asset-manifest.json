@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kothaunaing.github.io/reactapp/static/css/main.354ecd88.css",
+    "main.js": "/kothaunaing.github.io/reactapp/static/js/main.6d1b1184.js",
+    "index.html": "/kothaunaing.github.io/reactapp/index.html",
+    "main.354ecd88.css.map": "/kothaunaing.github.io/reactapp/static/css/main.354ecd88.css.map",
+    "main.6d1b1184.js.map": "/kothaunaing.github.io/reactapp/static/js/main.6d1b1184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.354ecd88.css",
+    "static/js/main.6d1b1184.js"
+  ]
+}
